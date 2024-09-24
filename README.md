@@ -26,6 +26,8 @@ Erlang известен своей отличной поддержкой рас�
 - https://ru.wikipedia.org/wiki/OCaml
 - https://dune.readthedocs.io/en/latest/
 
+Компилятор: ocamlc
+
 Система сборки: Dune
 
 Линтер: ocamlformat
