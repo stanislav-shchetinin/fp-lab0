@@ -24,6 +24,7 @@ Erlang известен своей отличной поддержкой рас�
 Статьи, которые я использовал при подготовке эссе:
 - https://runebook.dev/ru/docs/ocaml/moduleexamples
 - https://ru.wikipedia.org/wiki/OCaml
+- https://dune.readthedocs.io/en/latest/
 
 Система сборки: Dune
 Линтер: ocamlformat
